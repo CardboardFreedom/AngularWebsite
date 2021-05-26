@@ -1,3 +1,7 @@
+Screenshots folder contains screenshots of the website.
+
+This is a sample Angular Website created by me.
+
 # HelloWorld
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
