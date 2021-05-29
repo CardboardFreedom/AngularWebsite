@@ -2,6 +2,10 @@ Screenshots folder contains screenshots of the website.
 
 This is a sample Angular Website created by me.
 
+To Run This Website:
+
+Take all files and put them into a directory. Use a terminal to go to that directory and use "npm install" to receive the node_modules folder within the directory. Then, type in "ng serve" and you can open the website on your own browser by going to `http://localhost:4200/`.
+
 # HelloWorld
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
