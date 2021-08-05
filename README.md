@@ -2,6 +2,12 @@ Screenshots folder contains screenshots of the website.
 
 This is a sample Angular Website created by me.
 
+
+http://lelouchsvoice.ddns.net/
+
+If the website is down, you can run the code directly as instructed below.
+
+
 To Run This Website:
 
 Take all files and put them into a directory. Use a terminal to go to that directory and use "npm install" to receive the node_modules folder within the directory. Then, type in "ng serve" and you can open the website on your own browser by going to `http://localhost:4200/`.
